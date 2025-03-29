@@ -7,7 +7,14 @@
   "files": [
     "build"
   ],
-  "repository": "MikeSha/react-flatpickr-wrapper",
+  "homepage": "https://github.com/MikeSha/react-flatpickr-wrapper#readme",
+  "bugs": {
+    "url": "https://github.com/MikeSha/react-flatpickr-wrapper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeSha/react-flatpickr-wrapper.git"
+  },
   "keywords": [
     "flatpickr",
     "react"
