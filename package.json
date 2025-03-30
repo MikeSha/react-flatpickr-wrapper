@@ -1,7 +1,7 @@
 {
   "name": "react-flatpickr-wrapper",
   "description": "A flexible and reusable React wrapper component for the [flatpickr](https://flatpickr.js.org/) date picker library.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "license": "MIT",
   "files": [
