@@ -295,4 +295,4 @@ const RefExample: React.FC = () => {
 
 ## License
 
-MIT
+MIT © [MikeSha](https://github.com/MikeSha)
