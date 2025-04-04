@@ -4,6 +4,9 @@ A flexible and reusable React wrapper component for the [flatpickr](https://flat
 
 Inspired by [react-flatpickr](https://github.com/haoxins/react-flatpickr), but written from scratch.
 
+## Support me
+If you like what I'm doing, support me: https://ko-fi.com/mykeshato
+
 ## Installation
 
 ```bash
